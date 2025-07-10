@@ -50,10 +50,7 @@ Awaiting command...
 
 
 
-Write This before giving any commands
-
-
-
+:- Write This before giving any commands:-
 
 
 EXECUTE /Ω
