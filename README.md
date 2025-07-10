@@ -1,0 +1,1 @@
+# Google-Gemini-HackVerseTech-Mode---Jailbreak-Prompt
